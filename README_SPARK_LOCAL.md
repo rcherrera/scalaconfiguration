@@ -126,3 +126,4 @@ object HolaSpark {
     ```
 
 ¡Y listo! Spark funcionando local en Windows con amor y paciencia. 💻🔥
+ref 🌐 https://www.youtube.com/watch?v=wEEpULTvkZM&list=PLeUBsMTwZBi2Ezh9LO0-k1pQoKAtCqYGg&index=2
